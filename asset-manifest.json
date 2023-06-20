@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/r_task2/static/css/main.b54dba6a.css",
+    "main.js": "/r_task2/static/js/main.dc915db9.js",
+    "index.html": "/r_task2/index.html",
+    "main.b54dba6a.css.map": "/r_task2/static/css/main.b54dba6a.css.map",
+    "main.dc915db9.js.map": "/r_task2/static/js/main.dc915db9.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b54dba6a.css",
+    "static/js/main.dc915db9.js"
+  ]
+}
